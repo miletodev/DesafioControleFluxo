@@ -16,10 +16,6 @@ Este é um projeto em Java criado como parte de um desafio para exercitar o cont
 4. Execute o método `main` para iniciar o programa.
 5. Insira os dois números inteiros quando solicitado no terminal.
 
-## Exemplo de Uso
-
-Se você inserir os números `12` e `30`, o programa irá imprimir:
-
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/mileto)
